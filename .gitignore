@@ -1,9 +1,4 @@
-# project
-
-
 # general
 .DS_Store
-
-
-# others
+*.DS_Store
 
